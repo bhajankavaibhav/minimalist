@@ -2,6 +2,33 @@
 layout: default
 ---
 
+## About 
+
+Transforming my early intrigue in computers and coding into a thriving tech vocation, I am furthering my expertise with a Master's in Computer Science at the University of Southern California. My journey has been a mosaic of academic accolades and professional learning. I graduated at the top of my class with a Gold Medal during my Bachelors in Computer Science Engineering, complemented by impactful internships that allowed me to hone my skills while optimizing systems and boosting user engagement.
+
+I am also passionate about Startups, AI, Blockchain and Cybersecurity, constantly exploring new frontiers in these dynamic fields. 
+
+## Work Experience
+
+> ### **Student Software Developer, TrojanSecure, USC** 
+  - Spearheaded Information Security App POC with research and ‘Have I Been Pwned’ API integration for data breach awareness
+  - Cut effort 70% by deploying Python script for Excel sheet calculations, automating InfoSec training report generation
+
+> ### **Software Engineering Intern, UNext Learning**
+  - Drove 20% surge in user engagement by optimizing cross-platform Learning Management System using Microservices
+  - Achieved 10,000+ concurrency by incorporating Amazon S3, Cloudfront, WSO2 and JWT into middle-tier business logic
+  - Slashed EC2 load by 27%, increasing throughput 1.3x by redesigning Front-End and AWS S3 interactions via signed URLs
+  - Reduced lines of code by 42% and resolved production failures by refactoring API calls utilizing Postman for API testing
+  - Debugged 30+ P1/P2 issues by segregating data, models and presentation layers to increase modularity and performance
+
+> ### **Software Engineering Intern, Untap’d** 
+  - Engineered development of fleet management solution outperforming Kotlin version with superior UI/UX and 10MB app size
+  - Refactored legacy SQL queries, maximizing data fetch efficiency by 18% and supporting faster decision-making processes
+  - Curtailed 15% customer fuel costs through data driven insights by synchronizing real-time APIs for On-Board Diagnostics
+  - Improved live tracking by 31% with Google Maps integration, enhanced user experience via interactive data visualizations
+  - Elevated team productivity 25% by adopting Flutter Software Development Kit after evaluating scalability and complexity
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another Page](./another-page.html).
