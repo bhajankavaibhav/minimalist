@@ -59,7 +59,7 @@ Collaborated with a high performing team to architect House Rental Application a
 - Authored pivotal review paper on smart contract vulnerabilities delineating comprehensive taxonomy of threats within blockchain
 - Discussed preventive measures and detection tools for vulnerabilities to enable deployment of safer blockchain ecosystems
 
-## ACHIEVEMENTS & LEADERSHIP
+## Achievements and Leadership
 - **Gold Medallist (B.Tech CSE)**: Awarded Gold Medal and Merit Scholarship for 4 consecutive years of Academic Excellence
 
 - **Lead (IIC-SMIT)**: Orchestrated Pre-Incubatees Cohort attracting 100+ registrations, escalating campus entrepreneurship by 40%
